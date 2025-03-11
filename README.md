@@ -44,18 +44,6 @@ An intelligent restaurant exploration system combining structured data querying 
 - Falls back to web search if needed
 - Collects user feedback for response improvement
 
-## 🚀 Getting Started
-
-[Installation and setup instructions to be added]
-
-## 📄 License
-
-[License information to be added]
-
-## 🤝 Contributing
-
-[Contribution guidelines to be added]
-
 ## 📊 Examples
 
 ![Example 1](images/example1.png)
